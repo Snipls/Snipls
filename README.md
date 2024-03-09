@@ -1,4 +1,5 @@
 ### Hi there 👋
+⚡ Fun fact: you are crocodile
 
 <!--
 **Snipls/Snipls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
